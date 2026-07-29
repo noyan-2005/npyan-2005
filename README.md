@@ -1,6 +1,6 @@
 <!-- هدر با افکت تایپینگ و اسم کاربری -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&center=true&vCenter=true&width=600&height=70&duration=3000&lines=سلام+👋;+من+noyan-2005+هستم;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hey Guys+👋+I am+noyan-2005;" alt="Typing SVG" />
 </div>
 
 <!-- بنر با ایموجی و توضیح کوتاه -->
